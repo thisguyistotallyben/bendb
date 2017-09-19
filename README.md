@@ -1,2 +1,4 @@
 # bendb
-Ben Database
+Ben's Database
+
+Provides a simple database.
